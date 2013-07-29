@@ -4,7 +4,7 @@ THINGS TO DO:
 
 1) Buy raspi
 2) Choose OS
-    decent possibilities:
+    decent options:
         -ARCH       -ARCH
         -ARCH       -ARCH
         -ARCH       -ARCH
@@ -12,3 +12,16 @@ THINGS TO DO:
         -ARCH       -ARCH
 3) CODE STUFF
 4) DEBUG
+
+OK BUT FOR REALZ:
+
+* get raspi doc
+* get ultrasonic sound doc
+* create concept
+* think about communication implementation
+    - UDP connect to server
+        - evaluate sensor data on pi or on server??
+        - server calculate positional matrix
+        - make it for generic number of clients...
+        - maybe even automatic client log on log off recognition?
+* POC
