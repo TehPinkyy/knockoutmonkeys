@@ -14,7 +14,7 @@ int i = 0;
 
 void writefile(){
     fp = fopen("testfile", "w");
-    for(i;i<1240;i++){
+    for(i;i<1024;i++){
         fprintf(fp, "%d\n",i);       
     }    
 
